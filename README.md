@@ -4,7 +4,7 @@
 
 **By Lucas da Silva Santos — Full Stack Developer**
 
-🌎 **[Live demo](https://trocacopa-lucassantos-5212s-projects.vercel.app)**
+🌎 **[Live demo](ai-chatbot-beta-plum.vercel.app)**
 
 > 🔒 Source code is private. This README documents the architecture and technical decisions behind the product.
 
