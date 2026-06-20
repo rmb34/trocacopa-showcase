@@ -4,7 +4,7 @@
 
 **By Lucas da Silva Santos — Full Stack Developer**
 
-🌎 **[Live demo](hhttps://troca-copa-26.vercel.app/)**
+🌎 **[Live demo](https://troca-copa-26.vercel.app/)**
 
 > 🔒 Source code is private. This README documents the architecture and technical decisions behind the product.
 
