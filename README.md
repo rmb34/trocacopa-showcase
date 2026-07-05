@@ -6,7 +6,7 @@
 
 🌎 **[Live demo](https://troca-copa-26.vercel.app/)**
 
-> 🔒 Source code is private. This README documents the architecture and technical decisions behind the product.
+> 📂 Source code: [rmb34/trocacopa](https://github.com/rmb34/trocacopa). This README documents the architecture and technical decisions behind the product.
 
 ---
 
@@ -56,7 +56,7 @@ Mutations are Server Actions that derive `userId` from the session — never fro
 
 | Layer | Technology |
 |---|---|
-| Framework | Next.js 15 (App Router), React 19, TypeScript |
+| Framework | Next.js 16 (App Router), React 19, TypeScript |
 | Styling | Tailwind CSS v4, shadcn/ui, oklch design tokens |
 | Auth | better-auth (session-based) |
 | Database | PostgreSQL (Neon — serverless) |
