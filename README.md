@@ -4,7 +4,7 @@ Mobile-first sticker-album tracker for the 2026 World Cup. Collectors can manage
 
 I designed and built the product as an installable PWA using Next.js, React, PostgreSQL, and server-side session enforcement.
 
-[Live application](https://troca-copa-26.vercel.app/) · [Source code](https://github.com/rmb34/trocacopa) · [LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
+[Live application](https://troca-copa-26.vercel.app/) · [LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
 
 > TrocaCopa is an independent project and is not affiliated with FIFA, Panini, or Coca-Cola.
 
